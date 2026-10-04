@@ -110,3 +110,37 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 ## Ergnonomics
 - [Powerlifting as back pain prevention](https://www.youtube.com/watch?v=WxN9VzwoGGw) - by No Boilerplate
 
+## Keyboard shortcuts
+Shortchuts I frequently use:
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-A (select all)
+- Alt-F4 (Close the currently active program)
+- Alt-Tab (Switch between open programs)
+
+Shortcuts I would like to start using:
+- Ctrl-Y (Redo last action)
+- Ctrl-Z (Undo last action)
+- Ctrl-K (Insert hyperlink for selected text)
+
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+
+## More Resources
+
+Check out the [Useful Resources](links.md) page for useful links.
